@@ -1,3 +1,6 @@
+<h1>Tesla Clone</h1>
+<h3>Link for the 'Tesla clone' website (hosted on firebase) :</h2>
+<h3>https://telsa-20-akshayrai.web.app/</h3><br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
